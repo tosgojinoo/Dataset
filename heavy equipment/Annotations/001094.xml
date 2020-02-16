@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>001094.jpg</filename>
+	<path>ACID/001094.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2114</width>
+		<height>1073</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>concrete_mixer_truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>217</xmin>
+			<ymin>227</ymin>
+			<xmax>1998</xmax>
+			<ymax>1037</ymax>
+		</bndbox>
+	</object>
+</annotation>

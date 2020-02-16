@@ -1,0 +1,55 @@
+<annotation>
+ 
+  
+ <folder>VOC2007</folder>
+ 
+  
+ <filename>001362.jpg</filename>
+ 
+  
+ <size>
+  
+    
+  <width>1576</width>
+  
+    
+  <height>1139</height>
+  
+    
+  <depth>3</depth>
+  
+  
+ </size>
+ 
+  
+ <object>
+  
+    
+  <name>concrete_mixer_truck</name>
+  
+    
+  <difficult>0</difficult>
+  
+    
+  <bndbox>
+   
+      
+   <xmin>205</xmin>
+   
+      
+   <ymin>377</ymin>
+   
+      
+   <xmax>1273</xmax>
+   
+      
+   <ymax>1057</ymax>
+   
+    
+  </bndbox>
+  
+  
+ </object>
+ 
+
+<path path="ACID/005632.jpg">ACID/001362.jpg</path></annotation>

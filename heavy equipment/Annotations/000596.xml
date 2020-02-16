@@ -1,0 +1,55 @@
+<annotation>
+ 
+  
+ <folder>VOC2007</folder>
+ 
+  
+ <filename>000596.jpg</filename>
+ 
+  
+ <size>
+  
+    
+  <width>496</width>
+  
+    
+  <height>253</height>
+  
+    
+  <depth>3</depth>
+  
+  
+ </size>
+ 
+  
+ <object>
+  
+    
+  <name>excavator</name>
+  
+    
+  <difficult>0</difficult>
+  
+    
+  <bndbox>
+   
+      
+   <xmin>137</xmin>
+   
+      
+   <ymin>10</ymin>
+   
+      
+   <xmax>400</xmax>
+   
+      
+   <ymax>172</ymax>
+   
+    
+  </bndbox>
+  
+  
+ </object>
+ 
+
+<path path="ACID/000114.jpg">ACID/000596.jpg</path></annotation>

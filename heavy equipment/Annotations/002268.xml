@@ -1,0 +1,26 @@
+<annotation>
+	<folder>VOC2007</folder>
+	<filename>002268.jpg</filename>
+	<path>ACID/002268.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3968</width>
+		<height>2976</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dump_truck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2295</xmin>
+			<ymin>1248</ymin>
+			<xmax>3017</xmax>
+			<ymax>1629</ymax>
+		</bndbox>
+	</object>
+</annotation>

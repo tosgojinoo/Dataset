@@ -1,0 +1,55 @@
+<annotation>
+ 
+  
+ <folder>VOC2007</folder>
+ 
+  
+ <filename>000340.jpg</filename>
+ 
+  
+ <size>
+  
+    
+  <width>621</width>
+  
+    
+  <height>418</height>
+  
+    
+  <depth>3</depth>
+  
+  
+ </size>
+ 
+  
+ <object>
+  
+    
+  <name>dump_truck</name>
+  
+    
+  <difficult>0</difficult>
+  
+    
+  <bndbox>
+   
+      
+   <xmin>0</xmin>
+   
+      
+   <ymin>120</ymin>
+   
+      
+   <xmax>619</xmax>
+   
+      
+   <ymax>398</ymax>
+   
+    
+  </bndbox>
+  
+  
+ </object>
+ 
+
+<path path="ACID/000275.jpg">ACID/000340.jpg</path></annotation>
