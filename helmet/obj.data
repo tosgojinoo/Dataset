@@ -1,0 +1,5 @@
+classes= 4  
+train  = /tf/notebooks/PyTorch-YOLOv3/data/custom/train.txt  
+valid  = /tf/notebooks/PyTorch-YOLOv3/data/custom/test.txt  
+names = /tf/notebooks/PyTorch-YOLOv3/data/custom/obj.names  
+backup = /tf/notebooks/PyTorch-YOLOv3/backup/
